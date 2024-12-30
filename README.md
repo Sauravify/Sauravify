@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 **FRONTEND** DEVELOPER
 
 - 💬 Ask me about **MERN**
 
