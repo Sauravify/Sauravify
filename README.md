@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Saurabh Sharma</h1>
-<h3 align="center">A Passionate MERN STACK Developer from Nepal</h3>
+<h3 align="center">A Passionate Full Stack Developer from Nepal</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
 
@@ -8,9 +8,9 @@
 
 
 
-- 🌱 **FRONTEND** DEVELOPER
+- 🌱 **FULL STACK** DEVELOPER
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **SOFTWARE DEVELOPMENT**
 
 - 📫 How to reach me **sharmasaurabh4476@gmail.com**
 
